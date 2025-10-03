@@ -6,7 +6,7 @@ We developed in Python a set of algorithms to address the following optimization
 
 ![Equation](problemOpti.png)
 
-In problem $(\mathbb P)$, the objective \eqref{eq:obj} to minimize is the energy consumption of the current frame.
+In problem $(\mathbb P)$, the objective to minimize is the energy consumption of the current frame.
 We enumerate the variables in our formulation:
 \begin{itemize}
     \item $x_i$ represents the decision of the controller concerning the DU $i$: $x_i=1$ means DU $i$ is now active, while $x_i=0$ means DU $i$ is now asleep. The vector $\bm x$ contains the controller's decisions.
