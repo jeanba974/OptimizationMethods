@@ -4,4 +4,4 @@ In this project, we share the algorithms related to the research paper "Energy e
 
 We developed in Python a set of algorithms to address the following optimization problem:
 
-![Equation](probemOpti.png)
+![Equation](problemOpti.png)
